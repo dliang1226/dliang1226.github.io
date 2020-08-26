@@ -4,6 +4,20 @@ You can use the [editor on GitHub](https://github.com/dliang1226/dliang.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>LIANG Dong</h1>
+      <p><b> Ph.D. in Department of Mechanical and Automation Engineering</b></p>
+      <p><b>The Chinese University of Hong Kong</b></p>
+      <p><b>Email：dliang@mae.cuhk.edu.hk</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
