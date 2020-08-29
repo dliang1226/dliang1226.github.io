@@ -30,14 +30,14 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 ### Publications
 
 <b>D. Liang</b> and J. Huang, “Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,” 
-<i>IEEE Transactions on Automatic Control</i>, [DOI: 10.1109/TAC.2020.3010772](https://ieeexplore.ieee.org/abstract/document/9145598), 2020.
+<i>IEEE Transactions on Automatic Control</i>, [DOI: 10.1109/TAC.2020.3010772](https://ieeexplore.ieee.org/abstract/document/9145598), 2020. （SCI，IF = 5.093）
 
 <b>D. Liang</b> and J. Huang, “Robust Bipartite Output Regulation of Linear Uncertain Multi-agent Systems,”
-<i>International Journal of Control</i>, [DOI: 10.1080/00207179.2020.1777328](https://www.tandfonline.com/doi/abs/10.1080/00207179.2020.1777328?journalCode=tcon20), 2020.
+<i>International Journal of Control</i>, [DOI: 10.1080/00207179.2020.1777328](https://www.tandfonline.com/doi/abs/10.1080/00207179.2020.1777328?journalCode=tcon20), 2020.（SCI，IF = 2.930）
 
-<b>D. Liang</b> and J. Huang, [“Leader-following Bipartite Consensus of Multiple Uncertain Euler-Lagrange Systems over Signed Switching Digraphs,”](https://www.sciencedirect.com/science/article/abs/pii/S0925231220306172) <i>Neurocomputing</i>, vol. 405, pp. 96–102, 2020.
+<b>D. Liang</b> and J. Huang, [“Leader-following Bipartite Consensus of Multiple Uncertain Euler-Lagrange Systems over Signed Switching Digraphs,”](https://www.sciencedirect.com/science/article/abs/pii/S0925231220306172) <i>Neurocomputing</i>, vol. 405, pp. 96–102, 2020. （SCI，IF = 4.072）
 
-<b>D. Liang</b> and J. Huang, [“Practical Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,”](https://ieeexplore.ieee.org/document/8483851) in <i>Proceedings of the 37th Chinese Control Conference</i>, Wuhan, China, July 25-27, 2018, pp. 5116-5121.
+<b>D. Liang</b> and J. Huang, [“Practical Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,”](https://ieeexplore.ieee.org/document/8483851) in <i>Proceedings of the 37th Chinese Control Conference</i>, Wuhan, China, July 25-27, 2018, pp. 5116-5121. （EI）
 
 ### Honors & Awards
 
