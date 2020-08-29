@@ -75,7 +75,7 @@ IEEE International Conference on Control & Automation (ICCA)，Chinese Control C
 
 ### Hobbies 
 
-Travel, Hiking Running, Football, Violin, Music
+Travel, Hiking, Running, Football, Violin, Music
 
 
 
