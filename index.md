@@ -29,15 +29,15 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Publications
 
-D. Liang and J. Huang, “Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,” 
-IEEE Transactions on Automatic Control, [DOI: 10.1109/TAC.2020.3010772](https://ieeexplore.ieee.org/abstract/document/9145598), 2020.
+<b>D. Liang</b> and J. Huang, “Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,” 
+<i>IEEE Transactions on Automatic Control</i>, [DOI: 10.1109/TAC.2020.3010772](https://ieeexplore.ieee.org/abstract/document/9145598), 2020.
 
-D. Liang and J. Huang, “Robust Bipartite Output Regulation of Linear Uncertain Multi-agent Systems,”
-International Journal of Control, [DOI: 10.1080/00207179.2020.1777328](https://www.tandfonline.com/doi/abs/10.1080/00207179.2020.1777328?journalCode=tcon20), 2020.
+<b>D. Liang</b> and J. Huang, “Robust Bipartite Output Regulation of Linear Uncertain Multi-agent Systems,”
+<i>International Journal of Control</i>, [DOI: 10.1080/00207179.2020.1777328](https://www.tandfonline.com/doi/abs/10.1080/00207179.2020.1777328?journalCode=tcon20), 2020.
 
-D. Liang and J. Huang, [“Leader-following Bipartite Consensus of Multiple Uncertain Euler-Lagrange Systems over Signed Switching Digraphs,”](https://www.sciencedirect.com/science/article/abs/pii/S0925231220306172) Neurocomputing, vol. 405, pp. 96–102, 2020.
+<b>D. Liang</b> and J. Huang, [“Leader-following Bipartite Consensus of Multiple Uncertain Euler-Lagrange Systems over Signed Switching Digraphs,”](https://www.sciencedirect.com/science/article/abs/pii/S0925231220306172) <i>Neurocomputing</i>, vol. 405, pp. 96–102, 2020.
 
-D. Liang and J. Huang, [“Practical Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,”](https://ieeexplore.ieee.org/document/8483851) in Proceedings of the 37th Chinese Control Conference, Wuhan, China, July 25-27, 2018, pp. 5116-5121.
+<b>D. Liang</b> and J. Huang, [“Practical Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,”](https://ieeexplore.ieee.org/document/8483851) in <i>Proceedings of the 37th Chinese Control Conference</i>, Wuhan, China, July 25-27, 2018, pp. 5116-5121.
 
 ### Honors & Awards
 
@@ -55,11 +55,23 @@ D. Liang and J. Huang, [“Practical Robust Output Regulation of Linear Systems 
 - 2016-2017, 2nd Term · ENGG1410C Linear Algebra and Vector Calculus
 - 2017-2018, 1st Term · MAEG 5070 Nonlinear Control Systems (Graduate)
 - 2017-2018, 2nd Term · ENGG 5403 Linear System Theory & Design (Graduate)
-- 2018-2019, 1st Term · MAEG 3050 Introduction to Control Systems, MAEG 5725 Control and Industrial Automation (Graduate)
+- 2018-2019, 1st Term · MAEG 3050 Introduction to Control Systems
+- 2018-2019, 1st Term · MAEG 5725 Control and Industrial Automation (Graduate)
 - 2018-2019, 2nd Term · ENGG 1410A Linear Algebra and Vector Calculus
 
 
 ### Academic Activities
+
+- 2018 · Oral Presentation at the 37th Chinese Control Conference
+- Reviewer of the following journals and conferences:<br>
+International Journal of Control<br>
+SCIENCE CHINA Information Sciences<br>
+IEEE International Conference on Control & Automation (ICCA)，Chinese Control Conference (CCC)
+- 2020 · Shanghai University League’s Forum for International Young Scholars, SULF 2020 & Autonomous Intelligent Unmanned System Session (Tongji University), Shanghai, China. (online)
+- 2019 · International Symposium on Cooperative Autonomous Systems (ISCAS), Shenzhen, Guangdong, China.
+- 2019 · Global Artificial Intelligence & Robotics Summit (GAIR), CCF, Shenzhen, Guangdong, China.
+- 2015 · Summer School at Faculty of Engineering, Rutgers University, New Jersey, USA.
+- 2014 · Summer School on Cooperative Control of Unmanned Systems, National University of Defense Technology, Changsha, Hunan, China.
 
 ### Hobbies 
 
