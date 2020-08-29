@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
       <p><b>Email：dliang@mae.cuhk.edu.hk</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/dliang.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
