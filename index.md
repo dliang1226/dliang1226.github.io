@@ -15,7 +15,7 @@
 
 ### Biography
 
-I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since August 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in August 2020 and will join Theory Lab, Huawei Hong Kong Research Institute as a theoretical researcher in September, 2020.
+I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since August 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in August 2020 and will join Theory Lab, Huawei Hong Kong Research Institute as a theoretical researcher in September 2020.
 
 ### Research Interest
 
@@ -41,18 +41,29 @@ D. Liang and J. Huang, [“Practical Robust Output Regulation of Linear Systems 
 
 ### Honors & Awards
 
+- 2018 · Nominee for the “Excellent Tutor Award”, CUHK
+- 2016 - 2020 · PhD Fellowship (Full Scholarship), CUHK
+- 2016 · Outstanding Graduates (Provincial Level)
+- 2013, 2015 · National Scholarship, Ministry of Education of China
+- 2014 · Third Prize in National Undergraduate Mathematical Contest, Chinese Mathematical Society
+- 2014, 2015 · Full Aerospace Scholarship, China Space Foundation 
+- 2013 - 2020 · Lixin Tang Scholarship, UESTC
+
 ### Teaching Experience
+
+- 2016-2017, 1st Term · MAEG 3050 Introduction to Control Systems
+- 2016-2017, 2nd Term · ENGG1410C Linear Algebra and Vector Calculus
+- 2017-2018, 1st Term · MAEG 5070 Nonlinear Control Systems (Graduate)
+- 2017-2018, 2nd Term · ENGG 5403 Linear System Theory & Design (Graduate)
+- 2018-2019, 1st Term · MAEG 3050 Introduction to Control Systems, MAEG 5725 Control and Industrial Automation (Graduate)
+- 2018-2019, 2nd Term · ENGG 1410A Linear Algebra and Vector Calculus
+
 
 ### Academic Activities
 
 ### Hobbies 
 
-- Travel
-- Hiking
-- Running
-- Football
-- Violin
-- Music
+Travel, Hiking Running, Football, Violin, Music
 
 
 
