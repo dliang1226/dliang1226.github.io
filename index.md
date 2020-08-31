@@ -15,7 +15,7 @@
 
 ### Biography
 
-I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and will join Theory Lab, Huawei Hong Kong Research Institute as a theoretical researcher in Sep. 2020.
+I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and will join Theory Lab, 2012 Labs, Huawei Hong Kong Research Center as a theoretical researcher in Sep. 2020. 
 
 ### Research Interest
 
@@ -70,12 +70,13 @@ IEEE International Conference on Control & Automation (ICCA)，Chinese Control C
 - 2020 · Shanghai University League’s Forum for International Young Scholars, SULF 2020 & Autonomous Intelligent Unmanned System Session (Tongji University), Shanghai, China. (online)
 - 2019 · International Symposium on Cooperative Autonomous Systems (ISCAS), Shenzhen, Guangdong, China.
 - 2019 · Global Artificial Intelligence & Robotics Summit (GAIR), CCF, Shenzhen, Guangdong, China.
+- 2017 · IAS Workshop on Frontiers in Systems and Control, City University of Hong Kong, Hong Kong SAR, China.
 - 2015 · Summer School at Faculty of Engineering, Rutgers University, New Jersey, USA.
 - 2014 · Summer School on Cooperative Control of Unmanned Systems, National University of Defense Technology, Changsha, Hunan, China.
 
 ### Hobbies 
 
-Travel, Hiking, Running, Football, Violin, Music
+Travel · Hiking · Running · Football · Violin · Music
 
 
 
