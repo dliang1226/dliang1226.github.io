@@ -3,7 +3,7 @@
   <tr>
     <td width="75%">
       <h1>LIANG Dong</h1>
-      <p><b> Researcher, Theory Lab, 2012 Labs, Huawei Hong Kong Research Center </b></p>
+      <p><b> Researcher, Theory Lab, Huawei Hong Kong Research Center </b></p>
       <p><b> Ph.D. in Mechanical and Automation Engineering</b></p>
       <p><b>The Chinese University of Hong Kong</b></p>
       <p><b>Email：dliang@mae.cuhk.edu.hk</b></p>
