@@ -4,9 +4,9 @@
     <td width="75%">
       <h1>LIANG Dong</h1>
       <p><b>Researcher, Theory Lab, Huawei Hong Kong Research Center</b></p>
-      <p><b> Ph.D. in Mechanical and Automation Engineering</b></p>
+      <p><b>Ph.D. in Mechanical and Automation Engineering</b></p>
       <p><b>The Chinese University of Hong Kong</b></p>
-      <p><b>Email：dliang@mae.cuhk.edu.hk</b></p>
+      <p><b>Email：liang.dong@huawei.com</b></p>
     </td>
     <td width="25%">
       <img src="/photo.jpeg" width="100%">    
@@ -16,7 +16,7 @@
 
 ### Biography
 
-I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and will join Theory Lab, 2012 Labs, Huawei Hong Kong Research Center as a theoretical researcher in Sep. 2020. 
+I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and am now a theoretical researcher in  Theory Lab, 2012 Labs, Huawei Hong Kong Research Center since Sep. 2020. 
 
 ### Research Interest
 
