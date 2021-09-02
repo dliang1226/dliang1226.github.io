@@ -6,7 +6,7 @@
       <p><b> Assistant Professor, University of Shanghai for Science and Technology</b></p>
       <p><b>Ph.D. in Mechanical and Automation Engineering</b></p>
       <p><b>The Chinese University of Hong Kong</b></p>
-      <p><b>Email：dliangmae@link.cuhk.edu.hk</b></p>
+      <p><b>Email：dliang@usst.edu.cn</b></p>
     </td>
     <td width="25%">
       <img src="/photo.jpeg" width="100%">    
@@ -16,7 +16,7 @@
 
 ### Biography
 
-I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and was a theoretical researcher in  Theory Lab, 2012 Labs, Huawei Hong Kong Research Center from Sep. 2020 to Aug. 2021. I will join School of Optical-Electrical and Computer Engineering at University of Shanghai for Science and Technology since Sep. 2021.
+I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and was a theoretical researcher in  Theory Lab, 2012 Labs, Huawei Hong Kong Research Center from Sep. 2020 to Aug. 2021. I will join School of Optical-Electrical and Computer Engineering at [University of Shanghai for Science and Technology](https://www.usst.edu.cn) since Sep. 2021.
 
 ### Research Interest
 
