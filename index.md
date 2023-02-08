@@ -29,15 +29,18 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Publications
 
-[J3] <b>D. Liang</b> and J. Huang, “Robust Bipartite Output Regulation of Linear Uncertain Multi-agent Systems,”
+[J4] <b>D. Liang</b> and Y. Dong*, “Robust Cooperative Output Regulation of Linear Uncertain Multi-agent Systems by Distributed Event-triggered Dynamic Feedback Control,”
+<i>Neurocomputing</i>, [DOI: 10.1016/j.neucom.2022.01.092](https://www.sciencedirect.com/science/article/pii/S0925231222001163?via%3Dihub), vol. 483, pp. 1–9, 2022. （SCI，IF = 5.779）
+
+[J3] <b>D. Liang</b> and J. Huang*, “Robust Bipartite Output Regulation of Linear Uncertain Multi-agent Systems,”
 <i>International Journal of Control</i>, [DOI: 10.1080/00207179.2020.1777328](https://www.tandfonline.com/doi/abs/10.1080/00207179.2020.1777328?journalCode=tcon20), vol. 95, no. 1, pp. 42-49, 2022.（SCI，IF = 2.888）
 
-[J2] <b>D. Liang</b> and J. Huang, “Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,” 
+[J2] <b>D. Liang</b> and J. Huang*, “Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,” 
 <i>IEEE Transactions on Automatic Control</i>, [DOI: 10.1109/TAC.2020.3010772](https://ieeexplore.ieee.org/abstract/document/9145598), vol. 66, no. 5, pp. 2415-2422, 2021. （SCI，IF = 6.549）
 
-[J1] <b>D. Liang</b> and J. Huang, [“Leader-following Bipartite Consensus of Multiple Uncertain Euler-Lagrange Systems over Signed Switching Digraphs,”](https://www.sciencedirect.com/science/article/abs/pii/S0925231220306172) <i>Neurocomputing</i>, vol. 405, pp. 96–102, 2020. （SCI，IF = 5.779）
+[J1] <b>D. Liang</b> and J. Huang*, [“Leader-following Bipartite Consensus of Multiple Uncertain Euler-Lagrange Systems over Signed Switching Digraphs,”](https://www.sciencedirect.com/science/article/abs/pii/S0925231220306172) <i>Neurocomputing</i>, vol. 405, pp. 96–102, 2020. （SCI，IF = 5.779）
 
-[C1] <b>D. Liang</b> and J. Huang, [“Practical Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,”](https://ieeexplore.ieee.org/document/8483851) in <i>Proceedings of the 37th Chinese Control Conference</i>, Wuhan, China, July 25-27, 2018, pp. 5116-5121. （EI）
+[C1] <b>D. Liang</b> and J. Huang*, [“Practical Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,”](https://ieeexplore.ieee.org/document/8483851) in <i>Proceedings of the 37th Chinese Control Conference</i>, Wuhan, China, July 25-27, 2018, pp. 5116-5121. （EI）
 
 ### Projects 
 
