@@ -57,6 +57,7 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 ### Projects 
 
 [P2] “Prescribed-time Cooperative Output Regulation of Heterogeneous Multi-agent Systems Subject to Network Constraints”, <i>National Natural Science Foundation of China under Grant<i> No. 62203305, 2023 Jan.01 - 2025 Dec. 31, 300000 RMB, Principal Investigator.
+  
 [P1] “A Unified Framework for Solving Cooperative Control of Complex Multi-agent Systems”, <i>National Natural Science Foundation of China under Grant<i> No. 61973260, 2020 Jan.01 - 2023 Dec. 31, 570000 RMB, Primary Participant.
 
 
