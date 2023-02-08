@@ -29,6 +29,18 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Publications
 
+[J8] B. Wei, E. Tian, Z. Gu, J. Zhai and <b>D. Liang</b>, “Quasi-Consensus Control for Stochastic Multi-agent Systems: When Energy Harvesting Constriants Meet Multimodal FDI Attacks,” 
+<i>IEEE Transactions on Cybernetics</i>, Revised and Resubmit, Under Review, 2023. （SCI，IF = 19.118）
+
+[J7] <b>D. Liang</b>, Y. Dong* and C. Wang, “Prescribed-time Cooperative Output Regulation of Heterogeneous Multi-agent Systems,” 
+<i>International Journal of Robust and Nonliear Control</i>, Revised and Resubmit, Under Review, 2023. （SCI，IF = 3.897）
+
+[J6] <b>D. Liang</b> and E. Tian*, “The Binary Distributed Observer Approach to the Cooperative Output Regulation of Linear Multi-agent Systems,” 
+<i>IEEE Transactions on Automatic Control</i>, Accepted, 2023. （SCI，IF = 6.549）
+
+[J5] Z. Jin, C. Wang*, <b>D. Liang</b>, Z. Zuo and Z. Liang, “Fixed-time Leader-following Consensus of Multiple Uncertain Nonholonomic Systems: An Adaptive Distributed Observer Approach,”
+<i>Journal of the Franklin Institute</i>, [DOI: 10.1016/j.jfranklin.2022.06.026](https://www.sciencedirect.com/science/article/pii/S001600322200432X?via%3Dihub), vol. 359, pp. 6361-6391, 2022. （SCI，IF = 4.246）
+
 [J4] <b>D. Liang</b> and Y. Dong*, “Robust Cooperative Output Regulation of Linear Uncertain Multi-agent Systems by Distributed Event-triggered Dynamic Feedback Control,”
 <i>Neurocomputing</i>, [DOI: 10.1016/j.neucom.2022.01.092](https://www.sciencedirect.com/science/article/pii/S0925231222001163?via%3Dihub), vol. 483, pp. 1–9, 2022. （SCI，IF = 5.779）
 
