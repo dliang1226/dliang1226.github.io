@@ -16,16 +16,15 @@
 
 ### Biography
 
-I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and was a theoretical researcher in  Theory Lab, 2012 Labs, Huawei Hong Kong Research Center from Sep. 2020 to Aug. 2021. I will join [School of Optical-Electrical and Computer Engineering](https://oece.usst.edu.cn) at [University of Shanghai for Science and Technology (USST)](https://www.usst.edu.cn) since Sep. 2021.
+I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and was a theoretical researcher in  Theory Lab, 2012 Labs, Huawei Hong Kong Research Center from Sep. 2020 to Aug. 2021. I joined [School of Optical-Electrical and Computer Engineering](https://oece.usst.edu.cn) at [University of Shanghai for Science and Technology (USST)](https://www.usst.edu.cn) as Assitant Profeesor since Sep. 2021.
 
 ### Research Interest
 
 - Distributed Control of Multi-agent Systems
 - Robust and Nonlinear Control
-- Output Regulation
+- Output Regulation Theory and Its Applications
 - Event-triggered Control
-- Distributed Optimization
-- Machine Learning
+- Signed Graphs
 
 
 ### Publications
@@ -42,6 +41,7 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Honors & Awards
 
+- 2022 · Sixue Scholar · USST
 - 2018 · Nominee for the “Excellent Tutor Award”, CUHK
 - 2016 - 2020 · PhD Fellowship (Full Scholarship), CUHK
 - 2016 · Outstanding Graduates (Provincial Level)
@@ -52,6 +52,10 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Teaching Experience
 
+- 2022-2023, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
+- 2022-2023, 1st Term · Descrete Mathematics · USST 
+- 2022-2023, 1st Term · Modern Control Theory · USST 
+- 2021-2022, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
 - 2016-2017, 1st Term · MAEG 3050 Introduction to Control Systems
 - 2016-2017, 2nd Term · ENGG1410C Linear Algebra and Vector Calculus
 - 2017-2018, 1st Term · MAEG 5070 Nonlinear Control Systems (Graduate)
