@@ -94,7 +94,7 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 - 2018 · Oral Presentation at the 37th Chinese Control Conference
 - Reviewer of the following journals and conferences:<br>
 International Journal of Control,SCIENCE CHINA Information Sciences,IEEE TAES, IEEE Cybernetics, IEEE TCNS, IJRNC, JFI<br>
-IEEE International Conference on Control & Automation (ICCA),Chinese Control Conference (CCC)
+IEEE International Conference on Control & Automation (ICCA), Chinese Control Conference (CCC)
 - 2020 · Shanghai University League’s Forum for International Young Scholars, SULF 2020 & Autonomous Intelligent Unmanned System Session (Tongji University), Shanghai, China. (online)
 - 2019 · International Symposium on Cooperative Autonomous Systems (ISCAS), Shenzhen, Guangdong, China.
 - 2019 · Global Artificial Intelligence & Robotics Summit (GAIR), CCF, Shenzhen, Guangdong, China.
