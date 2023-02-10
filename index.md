@@ -16,7 +16,7 @@
 
 ### Biography
 
-I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and was a theoretical researcher in  Theory Lab, 2012 Labs, Huawei Hong Kong Research Center from Sep. 2020 to Aug. 2021. I joined [School of Optical-Electrical and Computer Engineering](https://oece.usst.edu.cn) at [University of Shanghai for Science and Technology (USST)](https://www.usst.edu.cn) as Assitant Profeesor since Sep. 2021.
+I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and was a theoretical researcher in  Theory Lab, 2012 Labs, Huawei Hong Kong Research Center from Sep. 2020 to Aug. 2021. I joined [School of Optical-Electrical and Computer Engineering](https://oece.usst.edu.cn) at [University of Shanghai for Science and Technology (USST)](https://www.usst.edu.cn) as Assistant Profeesor since Sep. 2021.
 
 ### Research Interest
 
@@ -29,7 +29,7 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Publications
 
-[J8] B. Wei, E. Tian, Z. Gu, J. Zhai and <b>D. Liang</b>, “Quasi-Consensus Control for Stochastic Multi-agent Systems: When Energy Harvesting Constriants Meet Multimodal FDI Attacks,” 
+[J8] B. Wei, E. Tian*, Z. Gu, J. Zhai and <b>D. Liang</b>, “Quasi-Consensus Control for Stochastic Multi-agent Systems: When Energy Harvesting Constriants Meet Multimodal FDI Attacks,” 
 <i>IEEE Transactions on Cybernetics</i>, Revised and Resubmit, Under Review, 2023. （SCI，IF = 19.118）
 
 [J7] <b>D. Liang</b>, Y. Dong* and C. Wang, “Prescribed-time Cooperative Output Regulation of Heterogeneous Multi-agent Systems,” 
@@ -52,7 +52,9 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 [J1] <b>D. Liang</b> and J. Huang*, [“Leader-following Bipartite Consensus of Multiple Uncertain Euler-Lagrange Systems over Signed Switching Digraphs,”](https://www.sciencedirect.com/science/article/abs/pii/S0925231220306172) <i>Neurocomputing</i>, vol. 405, pp. 96–102, 2020. （SCI，IF = 5.779）
 
-[C1] <b>D. Liang</b> and J. Huang*, [“Practical Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,”](https://ieeexplore.ieee.org/document/8483851) in <i>Proceedings of the 37th Chinese Control Conference</i>, Wuhan, China, July 25-27, 2018, pp. 5116-5121. （EI）
+[C2] <b>D. Liang</b>, Y. Dong*, C. Wang and E. Tian, “Data-driven Optimal Cooperative Output Regulation of Unknown Linear Descrete-time Multi-agent Systems,” in <i>Proceedings of the 35th Chinese Control and Decision Conference</i>, Yichang, Hubei, China, May 20-22, Accepted, 2023. （EI）
+
+[C1] <b>D. Liang</b> and J. Huang*, [“Practical Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,”](https://ieeexplore.ieee.org/document/8483851) in <i>Proceedings of the 37th Chinese Control Conference</i>, Wuhan, Hubei, China, July 25-27, 2018, pp. 5116-5121. （EI）
 
 ### Projects 
 
@@ -91,9 +93,8 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 - 2018 · Oral Presentation at the 37th Chinese Control Conference
 - Reviewer of the following journals and conferences:<br>
-International Journal of Control<br>
-SCIENCE CHINA Information Sciences<br>
-IEEE International Conference on Control & Automation (ICCA)，Chinese Control Conference (CCC)
+International Journal of Control,SCIENCE CHINA Information Sciences,IEEE TAES, IEEE Cybernetics, IEEE TCNS, IJRNC, JFI<br>
+IEEE International Conference on Control & Automation (ICCA),Chinese Control Conference (CCC)
 - 2020 · Shanghai University League’s Forum for International Young Scholars, SULF 2020 & Autonomous Intelligent Unmanned System Session (Tongji University), Shanghai, China. (online)
 - 2019 · International Symposium on Cooperative Autonomous Systems (ISCAS), Shenzhen, Guangdong, China.
 - 2019 · Global Artificial Intelligence & Robotics Summit (GAIR), CCF, Shenzhen, Guangdong, China.
