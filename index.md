@@ -36,7 +36,7 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 <i>International Journal of Robust and Nonliear Control</i>, Revised and Resubmit, Under Review, 2023. （SCI，IF = 3.897）
 
 [J6] <b>D. Liang</b> and E. Tian*, “The Binary Distributed Observer Approach to the Cooperative Output Regulation of Linear Multi-agent Systems,” 
-<i>IEEE Transactions on Automatic Control</i>, Accepted, 2023. （SCI，IF = 6.549）
+<i>IEEE Transactions on Automatic Control</i>, [DOI: 10.1109/TAC.2023.3246423](https://ieeexplore.ieee.org/document/10048534), 2023. （SCI，IF = 6.549）
 
 [J5] Z. Jin, C. Wang*, <b>D. Liang</b>, Z. Zuo and Z. Liang, “Fixed-time Leader-following Consensus of Multiple Uncertain Nonholonomic Systems: An Adaptive Distributed Observer Approach,”
 <i>Journal of the Franklin Institute</i>, [DOI: 10.1016/j.jfranklin.2022.06.026](https://www.sciencedirect.com/science/article/pii/S001600322200432X?via%3Dihub), vol. 359, pp. 6361-6391, 2022. （SCI，IF = 4.246）
@@ -76,17 +76,17 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Teaching Experience
 
-- 2022-2023, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
 - 2022-2023, 1st Term · Descrete Mathematics · USST 
+- 2022-2023, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
 - 2022-2023, 1st Term · Modern Control Theory · USST 
 - 2021-2022, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
-- 2016-2017, 1st Term · MAEG 3050 Introduction to Control Systems
-- 2016-2017, 2nd Term · ENGG1410C Linear Algebra and Vector Calculus
-- 2017-2018, 1st Term · MAEG 5070 Nonlinear Control Systems (Graduate)
-- 2017-2018, 2nd Term · ENGG 5403 Linear System Theory & Design (Graduate)
 - 2018-2019, 1st Term · MAEG 3050 Introduction to Control Systems
 - 2018-2019, 1st Term · MAEG 5725 Control and Industrial Automation (Graduate)
 - 2018-2019, 2nd Term · ENGG 1410A Linear Algebra and Vector Calculus
+- 2017-2018, 1st Term · MAEG 5070 Nonlinear Control Systems (Graduate)
+- 2017-2018, 2nd Term · ENGG 5403 Linear System Theory & Design (Graduate)
+- 2016-2017, 1st Term · MAEG 3050 Introduction to Control Systems
+- 2016-2017, 2nd Term · ENGG1410C Linear Algebra and Vector Calculus
 
 
 ### Academic Activities
