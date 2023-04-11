@@ -23,14 +23,14 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 - Distributed Control of Multi-agent Systems
 - Robust and Nonlinear Control
 - Output Regulation Theory and Its Applications
-- Event-triggered Control
-- Signed Graphs
+- Data-driven Control and Optimization
+- Applications in UAVs and Robots
 
 
 ### Publications
 
 [J8] B. Wei, E. Tian*, Z. Gu, J. Zhai and <b>D. Liang</b>, “Quasi-Consensus Control for Stochastic Multi-agent Systems: When Energy Harvesting Constriants Meet Multimodal FDI Attacks,” 
-<i>IEEE Transactions on Cybernetics</i>, Accepted, 2023. （SCI，IF = 19.118）
+<i>IEEE Transactions on Cybernetics</i>, [DOI: 10.1109/TCYB.2023.3253141]([https://ieeexplore.ieee.org/document/10048534](https://ieeexplore.ieee.org/document/10079926), 2023. （SCI，IF = 19.118）
 
 [J7] <b>D. Liang</b>, Y. Dong* and C. Wang, “Prescribed-time Cooperative Output Regulation of Heterogeneous Multi-agent Systems,” 
 <i>International Journal of Robust and Nonliear Control</i>, Revised and Resubmit, Under Review, 2023. （SCI，IF = 3.897）
