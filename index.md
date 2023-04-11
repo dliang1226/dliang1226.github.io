@@ -29,11 +29,11 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Publications
 
-[J8] B. Wei, E. Tian*, Z. Gu, J. Zhai and <b>D. Liang</b>, “Quasi-Consensus Control for Stochastic Multi-agent Systems: When Energy Harvesting Constriants Meet Multimodal FDI Attacks,” 
-<i>IEEE Transactions on Cybernetics</i>, [DOI: 10.1109/TCYB.2023.3253141]([https://ieeexplore.ieee.org/document/10048534](https://ieeexplore.ieee.org/document/10079926), 2023. （SCI，IF = 19.118）
-
-[J7] <b>D. Liang</b>, Y. Dong* and C. Wang, “Prescribed-time Cooperative Output Regulation of Heterogeneous Multi-agent Systems,” 
+[J8] <b>D. Liang</b>, Y. Dong* and C. Wang, “Prescribed-time Cooperative Output Regulation of Heterogeneous Multi-agent Systems,” 
 <i>International Journal of Robust and Nonliear Control</i>, Revised and Resubmit, Under Review, 2023. （SCI，IF = 3.897）
+
+[J7] B. Wei, E. Tian*, Z. Gu, J. Zhai and <b>D. Liang</b>, “Quasi-Consensus Control for Stochastic Multi-agent Systems: When Energy Harvesting Constriants Meet Multimodal FDI Attacks,” 
+<i>IEEE Transactions on Cybernetics</i>, [DOI: 10.1109/TCYB.2023.3253141](https://ieeexplore.ieee.org/document/10079926), 2023. （SCI，IF = 19.118）
 
 [J6] <b>D. Liang</b> and E. Tian*, “The Binary Distributed Observer Approach to the Cooperative Output Regulation of Linear Multi-agent Systems,” 
 <i>IEEE Transactions on Automatic Control</i>, [DOI: 10.1109/TAC.2023.3246423](https://ieeexplore.ieee.org/document/10048534), 2023. （SCI，IF = 6.549）
