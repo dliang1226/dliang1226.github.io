@@ -64,7 +64,7 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 
 ### Honors & Awards
-
+- 2023 · Shanghai Talent Program · Shanghai 
 - 2022 · Sixue Scholar · USST
 - 2018 · Nominee for the “Excellent Tutor Award”, CUHK
 - 2016 - 2020 · PhD Fellowship (Full Scholarship), CUHK
