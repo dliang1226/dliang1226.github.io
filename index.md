@@ -30,7 +30,7 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 ### Publications
 
 [J8] <b>D. Liang</b>, Y. Dong* and C. Wang, “Prescribed-time Cooperative Output Regulation of Heterogeneous Multi-agent Systems,” 
-<i>International Journal of Robust and Nonliear Control</i>, Accepted, 2023. （SCI，IF = 3.897）
+<i>International Journal of Robust and Nonliear Control</i>, [DOI: 10.1002/rnc.6890](http://doi.org/10.1002/rnc.6890), 2023. （SCI，IF = 3.897）
 
 [J7] B. Wei, E. Tian*, Z. Gu, J. Zhai and <b>D. Liang</b>, “Quasi-Consensus Control for Stochastic Multi-agent Systems: When Energy Harvesting Constriants Meet Multimodal FDI Attacks,” 
 <i>IEEE Transactions on Cybernetics</i>, [DOI: 10.1109/TCYB.2023.3253141](https://ieeexplore.ieee.org/document/10079926), 2023. （SCI，IF = 19.118）
