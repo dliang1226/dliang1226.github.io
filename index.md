@@ -3,7 +3,7 @@
   <tr>
     <td width="75%">
       <h1>LIANG Dong</h1>
-      <p><b> Assistant Professor, University of Shanghai for Science and Technology</b></p>
+      <p><b> Special-term Professor, University of Shanghai for Science and Technology</b></p>
       <p><b>Ph.D. in Mechanical and Automation Engineering</b></p>
       <p><b>The Chinese University of Hong Kong</b></p>
       <p><b>Email：dliang@usst.edu.cn</b></p>
@@ -16,7 +16,7 @@
 
 ### Biography
 
-I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and was a theoretical researcher in  Theory Lab, 2012 Labs, Huawei Hong Kong Research Center from Sep. 2020 to Aug. 2021. I joined [School of Optical-Electrical and Computer Engineering](https://oece.usst.edu.cn) at [University of Shanghai for Science and Technology (USST)](https://www.usst.edu.cn) as Assistant Profeesor since Sep. 2021.
+I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. degree in Detection, Guidance and Control Technology in July 2016 from [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), Chengdu, Sichuan Province, China. Since Aug. 2016, I has been working towards the Ph.D. degree in Department of Mechanical and Automation Engineering, [The Chinese University of Hong Kong (CUHK)](http://www.cuhk.edu.hk/english/index.html), under the supervision of Prof. [Jie Huang](http://www.mae.cuhk.edu.hk/~jhuang/). I obtained my Ph.D. degree in Aug. 2020 and was a theoretical researcher in  Theory Lab, 2012 Labs, Huawei Hong Kong Research Center from Sep. 2020 to Aug. 2021. I joined [School of Optical-Electrical and Computer Engineering](https://oece.usst.edu.cn) at [University of Shanghai for Science and Technology (USST)](https://www.usst.edu.cn) as Assistant Profeesor since Sep. 2021 and as Special-term Professor since July. 2023.
 
 ### Research Interest
 
@@ -28,6 +28,12 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 
 ### Publications
+
+[J11] <b>D. Liang</b>, Y. Dong*， C. Wang and G. Zhai, “Data-Driven Cooperative Output Regulation of Linear Discrete-Time Multiagent Systems With Unknown Dynamics,” <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, [DOI: 10.1109/TSMC.2024.3390388](https://ieeexplore.ieee.org/document/10520722), 2024. （SCI，IF = 8.700）
+
+[J10] E. Tian, G. Zhai, <b>D. Liang</b>* and J. Liu, “Cooperative Output Regulation of Unknown Linear Multiagent Systems: When Deadbeat Control Meets Data-Driven Framework,” <i>IEEE Transactions on Industrial Informatics</i>, [DOI: 10.1109/TII.2024.3361026](https://ieeexplore.ieee.org/document/10443057), 2024. （SCI，IF = 12.300）
+
+[J9] Z. Jin, C. Wang*, <b>D. Liang</b>, S. Wang and Z. Ding, “Fixed-Time Consensus for Multiple Tractor-Trailer Vehicles With Dynamics Control: A Distributed Internal Model Approach,” <i>IEEE Transactions on Intelligent Vehicles</i>, [DOI: 10.1109/TIV.2023.3338238](https://ieeexplore.ieee.org/document/10337744), vol. 9, no. 1, 2024. （SCI，IF = 8.200）
 
 [J8] <b>D. Liang</b>, Y. Dong* and C. Wang, “Prescribed-time Cooperative Output Regulation of Heterogeneous Multi-agent Systems,” 
 <i>International Journal of Robust and Nonliear Control</i>, [DOI: 10.1002/rnc.6890](http://doi.org/10.1002/rnc.6890), 2023. （SCI，IF = 3.897）
@@ -76,6 +82,9 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Teaching Experience
 
+- 2023-2024, 1st Term · Descrete Mathematics · USST 
+- 2023-2024, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
+- 2023-2024, 1st Term · Modern Control Theory · USST 
 - 2022-2023, 1st Term · Descrete Mathematics · USST 
 - 2022-2023, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
 - 2022-2023, 1st Term · Modern Control Theory · USST 
