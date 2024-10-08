@@ -29,7 +29,7 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Publications
 
-[J12] <b>D. Liang</b>, S. Wang and  E. Tian*, “Edge-Triggered Leader-Follower Consensus of Multiple Spacecraft Systems With Unknown Disturbances,” <i>IEEE Transactions on Signal and Information Processing over Networks</i>, [DOI: 10.1109/TSIPN.2024.3467916]([https://ieeexplore.ieee.org/document/10520722](https://ieeexplore.ieee.org/document/10694715), 2024. （SCI，IF = 3.000）
+[J12] <b>D. Liang</b>, S. Wang and  E. Tian*, “Edge-Triggered Leader-Follower Consensus of Multiple Spacecraft Systems With Unknown Disturbances,” <i>IEEE Transactions on Signal and Information Processing over Networks</i>, [DOI: 10.1109/TSIPN.2024.3467916](https://ieeexplore.ieee.org/document/10694715), 2024. （SCI，IF = 3.000）
 
 [J11] <b>D. Liang</b>, Y. Dong*， C. Wang and G. Zhai, “Data-Driven Cooperative Output Regulation of Linear Discrete-Time Multiagent Systems With Unknown Dynamics,” <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, [DOI: 10.1109/TSMC.2024.3390388](https://ieeexplore.ieee.org/document/10520722), 2024. （SCI，IF = 8.700）
 
