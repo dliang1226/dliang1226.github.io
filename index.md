@@ -29,6 +29,8 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Publications
 
+[J12] <b>D. Liang</b>, S. Wang and  E. Tian*, “Edge-Triggered Leader-Follower Consensus of Multiple Spacecraft Systems With Unknown Disturbances,” <i>IEEE Transactions on Signal and Information Processing over Networks</i>, [DOI: 10.1109/TSIPN.2024.3467916]([https://ieeexplore.ieee.org/document/10520722](https://ieeexplore.ieee.org/document/10694715), 2024. （SCI，IF = 3.000）
+
 [J11] <b>D. Liang</b>, Y. Dong*， C. Wang and G. Zhai, “Data-Driven Cooperative Output Regulation of Linear Discrete-Time Multiagent Systems With Unknown Dynamics,” <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, [DOI: 10.1109/TSMC.2024.3390388](https://ieeexplore.ieee.org/document/10520722), 2024. （SCI，IF = 8.700）
 
 [J10] E. Tian, G. Zhai, <b>D. Liang</b>* and J. Liu, “Cooperative Output Regulation of Unknown Linear Multiagent Systems: When Deadbeat Control Meets Data-Driven Framework,” <i>IEEE Transactions on Industrial Informatics</i>, [DOI: 10.1109/TII.2024.3361026](https://ieeexplore.ieee.org/document/10443057), 2024. （SCI，IF = 12.300）
@@ -58,11 +60,13 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 [J1] <b>D. Liang</b> and J. Huang*, [“Leader-following Bipartite Consensus of Multiple Uncertain Euler-Lagrange Systems over Signed Switching Digraphs,”](https://www.sciencedirect.com/science/article/abs/pii/S0925231220306172) <i>Neurocomputing</i>, vol. 405, pp. 96–102, 2020. （SCI，IF = 5.779）
 
-[C2] <b>D. Liang</b>, Y. Dong*, C. Wang and E. Tian, “Data-driven Optimal Cooperative Output Regulation of Unknown Linear Descrete-time Multi-agent Systems,” in <i>Proceedings of the 35th Chinese Control and Decision Conference</i>, Yichang, Hubei, China, May 20-22, Accepted, 2023. （EI）
+[C2] <b>D. Liang</b>, Y. Dong*, C. Wang and E. Tian, [“Data-driven Optimal Cooperative Output Regulation of Unknown Linear Descrete-time Multi-agent Systems,”](https://ieeexplore.ieee.org/document/10326669) in <i>Proceedings of the 35th Chinese Control and Decision Conference</i>, Yichang, Hubei, China, May 20-22, pp. 1738-1743, 2023. （EI）
 
 [C1] <b>D. Liang</b> and J. Huang*, [“Practical Robust Output Regulation of Linear Systems by Event-triggered Dynamic Output Feedback Control,”](https://ieeexplore.ieee.org/document/8483851) in <i>Proceedings of the 37th Chinese Control Conference</i>, Wuhan, Hubei, China, July 25-27, 2018, pp. 5116-5121. （EI）
 
 ### Projects 
+
+[P3] “Research on Distributed Filtering of Discrete Stochastic Systems Based on Privacy Protection”, National Natural Science Foundation of China, 2024 Jan.01 - 2027 Dec. 31, 500000 RMB, Primary Participant.
 
 [P2] “Prescribed-time Cooperative Output Regulation of Heterogeneous Multi-agent Systems Subject to Network Constraints”, National Natural Science Foundation of China under Grant No. 62203305, 2023 Jan.01 - 2025 Dec. 31, 300000 RMB, Principal Investigator.
   
@@ -82,6 +86,9 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Teaching Experience
 
+- 2024-2025, 1st Term · Descrete Mathematics · USST 
+- 2024-2025, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
+- 2024-2025, 1st Term · Modern Control Theory · USST 
 - 2023-2024, 1st Term · Descrete Mathematics · USST 
 - 2023-2024, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
 - 2023-2024, 1st Term · Modern Control Theory · USST 
@@ -100,7 +107,10 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Academic Activities
 
-- 2018 · Oral Presentation at the 37th Chinese Control Conference
+- 2022 · Oral Presentation at the 41st Chinese Control Conference，Online
+- 2021 · Oral Presentation at the 40th Chinese Control Conference, Shanghai, China
+- 2023 · Oral Presentation at the 35th Chinese Control and Decision Conference, Yichang, Hubei, China
+- 2018 · Oral Presentation at the 37th Chinese Control Conference， Wuhan, Hubei, China
 - Reviewer of the following journals and conferences:<br>
 International Journal of Control,SCIENCE CHINA Information Sciences,IEEE TAES, IEEE Cybernetics, IEEE TCNS, IJRNC, JFI<br>
 IEEE International Conference on Control & Automation (ICCA), Chinese Control Conference (CCC)
