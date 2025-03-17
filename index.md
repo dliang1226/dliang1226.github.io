@@ -29,6 +29,8 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Publications
 
+[J13] H. Chen, <b>D. Liang</b>*, C. Wang and E. Tian “Data-driven Adaptive Cooperative Output Regulation for Completely Unknown Linear Multi-agent Systems Based on Finite Length Data,” <i>International Journal of Robust and Nonliear Control</i>, [DOI: 10.1002/rnc.7813](http://doi.org/10.1002/rnc.7813), 2025. （SCI，IF = 3.897）
+
 [J12] <b>D. Liang</b>, S. Wang and  E. Tian*, “Edge-Triggered Leader-Follower Consensus of Multiple Spacecraft Systems With Unknown Disturbances,” <i>IEEE Transactions on Signal and Information Processing over Networks</i>, [DOI: 10.1109/TSIPN.2024.3467916](https://ieeexplore.ieee.org/document/10694715), 2024. （SCI，IF = 3.000）
 
 [J11] <b>D. Liang</b>, Y. Dong*， C. Wang and G. Zhai, “Data-Driven Cooperative Output Regulation of Linear Discrete-Time Multiagent Systems With Unknown Dynamics,” <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, [DOI: 10.1109/TSMC.2024.3390388](https://ieeexplore.ieee.org/document/10520722), 2024. （SCI，IF = 8.700）
@@ -66,6 +68,8 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Projects 
 
+[P4] “Research on Model-free Data-driven Cooperative Control of Multi-agent Systems and its Applications”, Science and Technology Commission of Shanghai Municipality under Grant No. 24PJA087, 2024 Dec.01 - 2026 Nov. 30, 300000 RMB, Principal Investigator.
+
 [P3] “Research on Distributed Filtering of Discrete Stochastic Systems Based on Privacy Protection”, National Natural Science Foundation of China, 2024 Jan.01 - 2027 Dec. 31, 500000 RMB, Primary Participant.
 
 [P2] “Prescribed-time Cooperative Output Regulation of Heterogeneous Multi-agent Systems Subject to Network Constraints”, National Natural Science Foundation of China under Grant No. 62203305, 2023 Jan.01 - 2025 Dec. 31, 300000 RMB, Principal Investigator.
@@ -74,6 +78,7 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 
 ### Honors & Awards
+- 2024 · Shanghai Baiyulan Pujiang Talent Program · Shanghai 
 - 2023 · Shanghai Talent Program · Shanghai 
 - 2022 · Sixue Scholar · USST
 - 2018 · Nominee for the “Excellent Tutor Award”, CUHK
@@ -86,6 +91,8 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Teaching Experience
 
+- 2024-2025, 2nd Term · Automatic Control Principles · USST
+- 2024-2025, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
 - 2024-2025, 1st Term · Descrete Mathematics · USST 
 - 2024-2025, 2nd Term · Nonlinear Control Systems (Graduate) · USST 
 - 2024-2025, 1st Term · Modern Control Theory · USST 
@@ -107,12 +114,12 @@ I was born in Xuzhou, Jiangsu Province, China in 1993. I received the B.Eng. deg
 
 ### Academic Activities
 
+- 2023 · Oral Presentation at the 35th Chinese Control and Decision Conference, Yichang, Hubei, China
 - 2022 · Oral Presentation at the 41st Chinese Control Conference，Online
 - 2021 · Oral Presentation at the 40th Chinese Control Conference, Shanghai, China
-- 2023 · Oral Presentation at the 35th Chinese Control and Decision Conference, Yichang, Hubei, China
 - 2018 · Oral Presentation at the 37th Chinese Control Conference， Wuhan, Hubei, China
 - Reviewer of the following journals and conferences:<br>
-International Journal of Control,SCIENCE CHINA Information Sciences,IEEE TAES, IEEE Cybernetics, IEEE TCNS, IJRNC, JFI<br>
+International Journal of Control,SCIENCE CHINA Information Sciences, IEEE TAC, IEEE TAES, IEEE Cybernetics, IEEE TCNS, IJRNC, JFI<br>
 IEEE International Conference on Control & Automation (ICCA), Chinese Control Conference (CCC)
 - 2020 · Shanghai University League’s Forum for International Young Scholars, SULF 2020 & Autonomous Intelligent Unmanned System Session (Tongji University), Shanghai, China. (online)
 - 2019 · International Symposium on Cooperative Autonomous Systems (ISCAS), Shenzhen, Guangdong, China.
